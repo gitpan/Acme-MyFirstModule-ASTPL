@@ -4,19 +4,17 @@ use 5.006;
 use strict;
 use warnings;
 
-use evenmorewarnings;
-
 =head1 NAME
 
 Acme::MyFirstModule::ASTPL - The great new Acme::MyFirstModule::ASTPL!
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS
